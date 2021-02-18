@@ -21,6 +21,9 @@ I’m Dmitriy, an engineer, creative coder and self-proclaimed designer who spec
 ### 📊THis Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML       1 hr 35 mins    ███████████▒░░░░░░░░░░░░░   44.77 % 
+Markdown   1 hr 1 min      ███████▒░░░░░░░░░░░░░░░░░   28.87 % 
+CSS        35 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.75 % 
+YAML       20 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
 ```
 <!--END_SECTION:waka-->
