@@ -10,6 +10,6 @@
 ### 📊THis Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-
+Perl   15 mins         ████████████████████████▒   97.94 % 
 ```
 <!--END_SECTION:waka-->
