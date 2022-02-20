@@ -10,8 +10,6 @@
 ### 📊THis Week I Spent My Time On:
 <!--START_SECTION:waka-->
 ```text
-Total: 0 secs
-
-
+TypeScript   4 mins          █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
