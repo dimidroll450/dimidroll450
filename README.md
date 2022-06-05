@@ -11,7 +11,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Perl         51 mins         ███████████████████▓░░░░░   78.05 %
+YAML         9 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
+Makefile     3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+Markdown     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
