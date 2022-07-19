@@ -11,7 +11,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-Perl   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Perl       55 mins         ████████████████████████▓   98.96 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
 ```
 
 <!--END_SECTION:waka-->
